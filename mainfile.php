@@ -24,7 +24,7 @@ body, html {height: 100%}
   <div class="w3-display-middle">
     <h1 class="w3-jumbo w3-animate-top">Hi! I am an Nginx container</h1>
     <hr class="w3-border-grey" style="margin:auto;width:40%">
-    <p class="w3-large w3-center"><?php  echo "configured in PHP" ?></p>
+    <p class="w3-large w3-center"><?php  echo "configured in PHP and commit has done to it" ?></p>
   </div>
   <div class="w3-display-bottomleft w3-padding-large">
   </div>
